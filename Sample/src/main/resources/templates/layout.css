@@ -1,0 +1,13 @@
+@charset "UTF-8";
+<style>
+#sort_table {
+	border-collapse:collapse;
+}
+#sort_table td {
+	border:1px solid lightgray;
+}
+#sort_table th {
+	cursor:pointer;
+	background-color:lightgray;
+}
+</style>
