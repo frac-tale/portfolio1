@@ -32,7 +32,7 @@
         また、保存ボタンを押下することで、eclipse上にbackup.txtを新たに生成し、テーブル要素をテキストデータとして保存する。  
         
         ■一例
-          (初期状態)：　　　　　　　　　　　　　　　　　　　　　　　https://github.com/frac-tale/portfolio1/tree/master/images/first.png  
+          (初期状態)：　　　　　　　　　　　　　　　　　　　　　　　http://github.com/frac-tale/portfolio1/tree/master/images/first.png  
           (下部のテーブルに情報を入力後、追加)：　　　　　　　　　　https://github.com/frac-tale/portfolio1/tree/master/images/second.png  
           (catレコードの編集を押し、編集後のデータを書く)：        https://github.com/frac-tale/portfolio1/tree/master/images/third.png  
           (編集を押し、参照画面へ戻る)：                          https://github.com/frac-tale/portfolio1/tree/master/images/fourth.png           
